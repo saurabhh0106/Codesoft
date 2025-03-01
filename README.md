@@ -13,3 +13,10 @@ In this project, I classify iris flowers into different species based on the len
 
 ### 4. Sales Prediction using Python
 This project is aimed at predicting future sales based on advertising expenditures across various platforms like TV, Radio, and Newspapers. Using a regression approach, the model analyzes historical sales data to forecast future sales trends and optimize marketing strategies.
+
+### Technologies Used
+* Python
+* Pandas, Numpy
+* Scikit-learn
+* Matplotlib, Seaborn
+* Jupyter Notebooks
